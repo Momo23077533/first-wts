@@ -1,0 +1,6 @@
+{
+  "name": "FocusGuard",
+  "description": "WhatsApp Status & Channels Blocker - Eliminate distractions by blocking the WhatsApp updates tab with secure PIN protection",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
